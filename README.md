@@ -52,7 +52,7 @@ Todos os instaladores incluem:
 
 ```bash
 
-git clone https://github.com/hudsonalbuquerque97-sys/Instalador-safesign-pje.git
+git clone https://github.com/hudsonalbuquerque97-sys/Instalador-pje-safesign.git
 cd Instalador-safesign-pje
 ```
 
