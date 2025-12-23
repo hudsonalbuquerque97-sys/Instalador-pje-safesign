@@ -66,7 +66,7 @@ sudo python3 ./Instalador_safesign_pje_v1.py
 Versão 2 (Black):
 
 ```bash
-sudo python3 ./python3 Instalador_safesign_pje_v2.py
+sudo python3 ./Instalador_safesign_pje_v2.py
 ```
 
 ## ⚙️ Funcionamento
